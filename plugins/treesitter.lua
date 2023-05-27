@@ -11,6 +11,8 @@ return {
       "sql",
       "typescript",
       "yaml",
+      "yuck",
+      "rasi",
     },
   },
 }
